@@ -29,3 +29,4 @@ You will also see any lint errors in the console.
    
 ### Sneak Peak
 
+![image](https://user-images.githubusercontent.com/76193921/112427333-71778580-8d5f-11eb-8c82-e61ecfd3231b.png)
